@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Personal documents — not for public repo
+assets/*.docx
+assets/*.pdf
+assets/*.zip
+assets/Interpreter Kit wish list.jpg
+assets/Self-care board .png
+
+# Duplicate website files that live in assets/ (real ones are at repo root)
+assets/index.html
+assets/script.js
+assets/styles.css
