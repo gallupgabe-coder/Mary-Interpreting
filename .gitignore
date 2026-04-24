@@ -12,3 +12,9 @@ assets/Self-care board .png
 assets/index.html
 assets/script.js
 assets/styles.css
+
+# Video files — host on YouTube/Vimeo instead of committing large files
+assets/videos/
+*.mp4
+*.mov
+*.webm
