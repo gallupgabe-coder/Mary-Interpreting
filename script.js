@@ -113,6 +113,8 @@
       '.timeline-entry',
       '.rate-card',
       '.video-slot',
+      '.ethics-card',
+      '.schedule-grid',
       '.contact-wrapper'
     ];
 
